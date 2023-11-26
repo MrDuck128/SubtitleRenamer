@@ -8,6 +8,7 @@ else:
 if not os.path.isdir(path):
     print('Enter a valid path.')
     input('Press enter to exit...')
+    exit(0)
 
 videos = {}
 subtitles = {}
