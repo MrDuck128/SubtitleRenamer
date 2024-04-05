@@ -1,12 +1,12 @@
 # Scripts for managing and editing subtitles
 
-### Script for renaming subtitle files to match the video files of TV shows or other
+### subtitleRenamer - Script for renaming subtitle files to match the video files of TV shows or other
 
-- Place ***subtitleRenamer.exe*** into the destination folder and run it (no requirements)
-- ***subtitleRenamerInFolder.py*** has the same functionality but requires python
-- ***subtitleRenamer.py*** can take an argument to rename the files in some other folder
+- Run ***subtitleRenamer.exe*** in the destination folder or run with an argument to target a different directory
+- ***subtitleRenamer.py*** has the same functionality but requires python
     - python subtitleRenamer.py C:\Example Path\Dir
 
-### Script for fixing wrong encoding and charachters for Croatian subtitles
+### croatianSubtitleFix - Script for fixing wrong encoding and charachters for Croatian subtitles
 
-- Run ***croatianSubtitleFix.py*** in folder with the subtitles
+- Run ***croatianSubtitleFix.exe*** in folder with the subtitles or run with an argument to target a different directory
+- ***croatianSubtitleFix.py*** has the same functionality but requires python
