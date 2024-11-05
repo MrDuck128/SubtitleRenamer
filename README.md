@@ -10,3 +10,4 @@
 
 - Run ***croatianSubtitleFix.exe*** in folder with the subtitles or run with an argument to target a different directory
 - ***croatianSubtitleFix.py*** has the same functionality but requires python
+- use ***croatianSubtitleFixMultiple.py*** for TV shows
